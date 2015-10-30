@@ -53,6 +53,9 @@ function getUrlParams(){
     return urlParams;
 }
 
+
+// node types
+
 var SimpleNode = function(x, y, speed){
     x = width*x;
     y = height*y;
@@ -140,6 +143,8 @@ RandomNode.prototype.deltaMove = function(){
 };
 
 
+// set up nodes from URL string
+
 var nodes = [];
 urlParams["nodes"].split("|").forEach(function(nodeString){
     if(nodeString.match(/^(WaypointNode|RandomNode|SimpleNode)\([\[\]\.0-9\,]*\)$/))
@@ -195,6 +200,7 @@ two.bind('update', function(frameCount) {
 
 });
 
+// pause/play button
 two.update();
 var playSymbol = "▶",
     pauseSymbol = "▐▐";
