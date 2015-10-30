@@ -1,6 +1,6 @@
-// Griffeynet: http://localhost:63342/windviz/windviz.html?nodes=SimpleNode(.5,.5)|WaypointNode([[.15,.85],[.5,.7],[.85,.15],[.5,.7]],3)|SimpleNode(.2,.7)|SimpleNode(.1,.9)|SimpleNode(.3,.9)|SimpleNode(.8,.1)|SimpleNode(.7,.3)|SimpleNode(.9,.3)
-// Causeway: http://localhost:63342/windviz/windviz.html?nodes=WaypointNode([[.01,.2],[.99,.2],0],2.1)|WaypointNode([[.01,.4],[.99,.4],0],1.1)|WaypointNode([[.01,.6],[.99,.6],0],2.9)|WaypointNode([[.01,.8],[.99,.8],0],1.9)|WaypointNode([[.99,.1],[.01,.1],0],1.9)|WaypointNode([[.99,.3],[.01,.3],0],3.1)|WaypointNode([[.99,.5],[.01,.5],0],2.2)|WaypointNode([[.99,.7],[.01,.7],0],1.2)|WaypointNode([[.99,.9],[.01,.9],0],1.5)
-// Temple: http://localhost:63342/windviz/windviz.html?nodes=SimpleNode(.5,.5)|SimpleNode(.5,.1)|SimpleNode(.5,.9)|SimpleNode(.1,.3)|SimpleNode(.1,.7)|SimpleNode(.9,.3)|SimpleNode(.9,.7)|WaypointNode([[.5,.4],[.5,.15],[.85,.3],[.85,.7],[.5,.85],[.15,.7],[.15,.3]],3)
+// Griffeynet: ?nodes=SimpleNode(.5,.5)|WaypointNode([[.15,.85],[.5,.7],[.85,.15],[.5,.7]],3)|SimpleNode(.2,.7)|SimpleNode(.1,.9)|SimpleNode(.3,.9)|SimpleNode(.8,.1)|SimpleNode(.7,.3)|SimpleNode(.9,.3)
+// Causeway: ?nodes=WaypointNode([[.01,.2],[.99,.2],0],2.1)|WaypointNode([[.01,.4],[.99,.4],0],1.1)|WaypointNode([[.01,.6],[.99,.6],0],2.9)|WaypointNode([[.01,.8],[.99,.8],0],1.9)|WaypointNode([[.99,.1],[.01,.1],0],1.9)|WaypointNode([[.99,.3],[.01,.3],0],3.1)|WaypointNode([[.99,.5],[.01,.5],0],2.2)|WaypointNode([[.99,.7],[.01,.7],0],1.2)|WaypointNode([[.99,.9],[.01,.9],0],1.5)
+// Temple: ?nodes=SimpleNode(.5,.5)|SimpleNode(.5,.1)|SimpleNode(.5,.9)|SimpleNode(.1,.3)|SimpleNode(.1,.7)|SimpleNode(.9,.3)|SimpleNode(.9,.7)|WaypointNode([[.5,.4],[.5,.15],[.85,.3],[.85,.7],[.5,.85],[.15,.7],[.15,.3]],3)
 
 window.onload=function(){
 
