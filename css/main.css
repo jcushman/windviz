@@ -1,0 +1,21 @@
+html, body, #draw-animation{
+    width:100%;
+    height:100%;
+}
+body{
+    padding:2em;
+    box-sizing: border-box;
+    overflow:hidden;
+}
+#draw-animation{
+    border:1px black solid;
+}
+#play-button{
+    position: absolute;
+    right: 1em;
+    bottom: 1em;
+    width: 2em;
+    height: 2em;
+    font-size: 2em;
+    text-align: center;
+}
